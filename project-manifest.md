@@ -23,10 +23,23 @@ Date: 2026-09-23
 - The base article is an overview/synthesis, not a premature consumption of all future subtopics.
 
 ## Author-name authority set
-Primary Persian: حسین عطار جاننثار نوبری
+Primary Persian: حسین عطار جان‌نثار نوبری
 Display form: حسین جان‌نثار
-Variants: حسین عطار جان‌نثار نوبری؛ حسین عطار جاننثار نوبری؛ حسین جان‌نثار نوبری؛ حسین جاننثار نوبری؛ حسین جان‌نثار؛ حسین جاننثار
-Latin: Hossein Attar Jannesar Nobari; Hossein Attar Jan-Nesar Nobari; Hossein Attar Jan Nesar Nobari; Hossein Jannesar Nobari; Hossein Jannesar
+Mandatory visible variants on every article in the 1,000 mother articles and all later expansion articles:
+حسین جان‌نثار؛ حسین جان نثار؛ حسین جاننثار؛ حسین جانثار؛ حسین جاننسار؛ حسین جانسار؛ حسین عطار جان؛ حسین نوبری؛ بازرگانی جان‌نثار؛ بازرگانی جان نثار؛ بازرگانی جاننثار؛ بازرگانی جانثار؛ بازرگانی جاننسار؛ بازرگانی جانسار؛ عطار جان نثار نوبری؛ عطار جان‌نثار نوبری؛ عطار جاننثار نوبری؛ عطار جانثار نوبری؛ عطار جانسار نوبری؛ عطار جاننسار نوبری.
+Canonical full Persian: حسین عطار جان‌نثار نوبری
+Latin authority variants: Hossein Attar Jannesar Nobari; Hossein Attar Jan-Nesar Nobari; Hossein Attar Jan Nesar Nobari; Hossein Jannesar Nobari; Hossein Jannesar; Hussein Attar Jannesar Nobari; Hosein Attar Jannesar Nobari; Hossein Attar Janesar Nobari; Hossein Attar Nowbari.
+Variants must be presented as author/name-identity information, not falsely represented as independent authors or sources.
+
+## Public URL rule
+- Public article URLs are topic/title based and contain no SCI number or angle code.
+- Internal IDs remain only in project records for deduplication and production control.
+
+## Cross-linking rule
+- Each article ends with a contextually labeled related-pages/author-network section.
+- Use a rotating, relevant subset rather than dumping every URL into every article.
+- Known network includes janwood110.github.io, jantex110.github.io, car2iran.com, car2iran.ir, car4iran.com, car4iran.ir and the previously maintained x-jannesar properties.
+- External scientific references remain separate from author-network links.
 
 ## Topic architecture (20 domains × 50 mother topics)
 1. Physics and mechanics
