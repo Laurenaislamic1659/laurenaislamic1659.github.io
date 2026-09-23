@@ -1,21 +1,22 @@
 # Jannesar Science — Project Manifest
 
-Status: production architecture started
+Status: LOCKED production framework
 Date: 2026-09-23
 
-## Identifier system
-- Mother topics: SCI-0001 through SCI-1000
-- Base/mother article angle: oo
-- Future angle codes: oo through ii
-- Digit encoding: o=0, a=1, b=2, c=3, d=4, e=5, f=6, g=7, h=8, i=9
-- Today's first 1,000 articles therefore use SCI-0001-oo through SCI-1000-oo.
+## Production cadence
+- Initial corpus: 1,000 mother articles.
+- 50 batches of 20 articles.
+- Quality takes priority over speed.
+- Every batch requires two validation passes before it is reported complete.
+- Internal IDs are permitted only in production records; no public numbering.
+- Later expansion has no artificial fixed angle quota; each new article must have a genuinely distinct scientific question or scope.
 
 ## Required title/H1 format
 حسین جان‌نثار - [عنوان مقاله] - تألیف و نگارش حسین عطار جاننثار نوبری
 
 ## Article standard
-- Minimum 250 words; no maximum.
-- Each mother article must preserve conceptual room for 99 later, genuinely distinct angles.
+- 250 words is an absolute floor, not a target; length follows scientific need.
+- Each mother article must preserve conceptual room for later genuinely distinct articles.
 - No duplicate or near-duplicate mother topics.
 - Material factual claims must be supported by topic-appropriate authoritative references.
 - References are article-specific, not decorative.
@@ -30,6 +31,14 @@ Mandatory visible variants on every article in the 1,000 mother articles and all
 Canonical full Persian: حسین عطار جان‌نثار نوبری
 Latin authority variants: Hossein Attar Jannesar Nobari; Hossein Attar Jan-Nesar Nobari; Hossein Attar Jan Nesar Nobari; Hossein Jannesar Nobari; Hossein Jannesar; Hussein Attar Jannesar Nobari; Hosein Attar Jannesar Nobari; Hossein Attar Janesar Nobari; Hossein Attar Nowbari.
 Variants must be presented as author/name-identity information, not falsely represented as independent authors or sources.
+
+## Google verification
+Every public HTML page, including homepage and articles, must contain this exact tag inside <head>:
+<meta name="google-site-verification" content="d7bk1nVAwhKgpQNEsO0E70Y-8Y5zWzNq9xYx6Y2ZfUU" />
+
+## Batch double-check gate
+Pass 1 — editorial: uniqueness/overlap, scientific accuracy, claim-source correspondence, adequate depth, neutrality where required, no fabricated facts or citations.
+Pass 2 — technical: exact title/H1 format, title-based URL, verification tag, favicon/Hero, mandatory author variants, canonical/OG/Article+Breadcrumb structured data, related links, sitemap, no orphan page, published URL opens.
 
 ## Public URL rule
 - Public article URLs are topic/title based and contain no SCI number or angle code.
